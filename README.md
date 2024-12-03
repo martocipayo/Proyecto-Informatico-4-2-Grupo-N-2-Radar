@@ -1,4 +1,8 @@
-4 2 Computacion Grupo-N-2-Radar Integrantes: Martin Lopez Schillaci , Benjamin Ibañez, Felipe Kuo Lee, Valentin Bruzza, Jonathan Vera Profesor : Gonzalo Consorti 
+4 2 Computacion 
+Grupo-N-2-Radar 
+Integrantes: Martin Lopez Schillaci , Benjamin Ibañez, Felipe Kuo Lee, Valentin Bruzza, Jonathan Vera 
+
+Profesor : Gonzalo Consorti 
 
 Objetivo Del trabajo: Lograr realizar un Radar con arduino, este tendria las funciones de:
 
